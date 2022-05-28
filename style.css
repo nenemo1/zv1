@@ -2,8 +2,12 @@ body {
     background-color: black;
 }
 
-headtext p{
-    color:white;
+nav a{
+    border:1px solid white;
+    padding:10px;
+    text-decoration: none;
+    margin:65px;
+    font-size: 30px;
 }
 
 p{
